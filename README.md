@@ -26,7 +26,7 @@ Ahora se mostrara dicho codigo utilizado para hacer el programa:
 #parpadeando azul y rojo, a ver significando que esta recibiendo luz, adicionalmente los parametros,
 #obtenidos por los sensores se estaran imprimiendo en consola.
 
-<img src="sensores.JPG" alt="sensor" width="500" height="600">
+<img src="sensores.png" alt="sensores" width="500" height="600">
 
 
 
