@@ -17,6 +17,7 @@ En la siguiente imagen se logra apreciar los componentes del proyecto.
 <img src="sensor.JPG" alt="sensor" width="500" height="600">
 
 Ahora se mostrara dicho codigo utilizado para hacer el programa:
+
 #Joshua Benitez Peraza
 #Castro Pacheco Jose
 #El programa requiere y hace uso de los siguientes sensores: Photosensible, RGB, Laser.
@@ -24,6 +25,9 @@ Ahora se mostrara dicho codigo utilizado para hacer el programa:
 #Se prende el laser que se debera apuntar al sensor photosensible, de esta manera el led RGB pasara de estar
 #parpadeando azul y rojo, a ver significando que esta recibiendo luz, adicionalmente los parametros,
 #obtenidos por los sensores se estaran imprimiendo en consola.
+
+<img src="sensores.JPG" alt="sensor" width="500" height="600">
+
 
 
 
