@@ -26,6 +26,7 @@ Ahora se mostrara dicho codigo utilizado para hacer el programa:
 #obtenidos por los sensores se estaran imprimiendo en consola.
 
 
+
 from machine import Pin,ADC,PWM
 from time import sleep
  
