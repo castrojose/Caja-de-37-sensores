@@ -26,6 +26,8 @@ Ahora se mostrara dicho codigo utilizado para hacer el programa:
 
 Por ultimo se tomo sensor extra que detecta alcohol, la cual es un sensor mq3.
 Se mostrara el codigo utilizado y el funcionamiento de dicho codigo:
+Se hace uso de dicho sensor para medir la cantidad de gas alchol que recibe, para realizar una prueba se utilizo una botella de asetona.
+El codigo convierte la señal mandada por el sensor en forma de voltaje, y cuando este sube a mas de una señal en 16 bits de 60000, significa que se detecto alcohol
 
 <img src="codigos.jpg" alt="codigos" width="400" height="450">
 
