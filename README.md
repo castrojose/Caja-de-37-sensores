@@ -16,7 +16,4 @@ En la siguiente imagen se logra apreciar los componentes del proyecto.
 
 <img src="sensor.JPG" alt="sensor" width="500" height="600">
 
-El html sigueinte contiene dos botones, los cuales activan y apagan el sistema, al presionar el boton de encendido se activa el laser y el led RGB comienza a parpadear, hasta que el photosensor reciba la luz, y en ese caso se tornara verde el sersor.
-
-<img src="server.JPG" alt="server" width="500" height="600">
-Por ultimo el video demostrando que funciona correctamente se mando por classroom, ya que al momento de ingresar dicho video por aqui se hay bastante complicaciones para poder que este funcione correctamente.
+Ahora se mostrara dicho codigo utilizado para hacer el programa
