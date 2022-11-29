@@ -27,7 +27,7 @@ Ahora se mostrara dicho codigo utilizado para hacer el programa:
 Por ultimo se tomo sensor extra que detecta alcohol, la cual es un sensor mq3.
 Se mostrara el codigo utilizado y el funcionamiento de dicho codigo:
 
-
+<img src="codigos.JPG" alt="codigos" width="500" height="600">
 
 
 
