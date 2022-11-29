@@ -14,7 +14,7 @@
 
 En la siguiente imagen se logra apreciar los componentes del proyecto.
 
-<img src="sensor.JPG" alt="sensor" width="500" height="600">
+<img src="sensor.JPG" alt="sensor" width="400" height="450">
 
 Ahora se mostrara dicho codigo utilizado para hacer el programa:
 
